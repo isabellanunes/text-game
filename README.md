@@ -1,5 +1,5 @@
 <h1 align="center">
-    Text game
+    Text Game
 </h1>
 
 <p align="center">
@@ -12,22 +12,24 @@
 <br />
 
 <p align="center">
-    <img src=".readme/zork.webp" width = "250px" />
+    <img src=".readme/image01.gif" width = "600px" />
 </p>
 
 <br />
 
 ## Technologies and requirements
-- Java 11
+- HTML
+- CSS
+- JavaScript
 
 ## Project
-This is just a text game like Zork for studying Java.
+This is a repository that contains a text game made it with JavaScript, only for studying DOM manipulation and the language itself.
 
 ## Run
-Download and run the .jar file.
+Open the `index.html` with VSCode LiveServer.
 
 ## Status
-In Progress 🚧
+In progress 🚧
 
 ## License
 This project is under the MIT License. See [LICENSE](/LICENSE.md) file for more details.
